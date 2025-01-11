@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Frontend`**
 
-Me chamo Camille Focke, tenho 22 anos e estou finalizando o curso de Análise e Desenvolvimento de Sistemas. Disponibilizado pela Uninassau João Pessoa. Estou focando no momento em linguagens e práticas utilizadas no desenvolvimento do frontend de um sistema, mas futuramente espero ser uma desenvolvedora fullstack!
+Me chamo Camille Focke, tenho 22 anos e estou finalizando o curso de Análise e Desenvolvimento de Sistemas. Disponibilizado pela Uninassau João Pessoa. Estou focando em aprender no momento linguagens e práticas utilizadas no desenvolvimento do frontend de um sistema, mas futuramente espero ser uma desenvolvedora fullstack!
 
 ---
 
