@@ -70,7 +70,7 @@ Me chamo Camille Focke, tenho 22 anos e estou finalizando o curso de Análise e 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=camillefk&theme=omni&show_icons=true&hide_border=false&count_private=true" 
   />
@@ -78,7 +78,7 @@ Me chamo Camille Focke, tenho 22 anos e estou finalizando o curso de Análise e 
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillefk&theme=omni&show_icons=true&hide_border=false&layout=compact" 
   />
 
