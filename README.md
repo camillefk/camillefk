@@ -44,15 +44,6 @@ My name is Camille Focke, I am 22 years old, and I am finishing my degree in Sys
 
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
