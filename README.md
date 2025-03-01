@@ -1,12 +1,12 @@
-## Olá! Bem-vindo(a) ao meu Github 🤍
+## Hello! Welcome to my Github 🤍
 
-**`Desenvolvedora Frontend`**
+**`Frontend Developer`**
 
-Me chamo Camille Focke, tenho 22 anos e estou finalizando o curso de Análise e Desenvolvimento de Sistemas. Disponibilizado pela Uninassau João Pessoa. Estou focando em aprender no momento linguagens e práticas utilizadas no desenvolvimento do frontend de um sistema, mas futuramente espero ser uma desenvolvedora fullstack!
+My name is Camille Focke, I am 22 years old, and I am finishing my degree in Systems Analysis and Development, offered by Uninassau João Pessoa. I am currently focusing on learning languages and practices used in frontend development, but in the future, I hope to become a full-stack developer!
 
 ---
 
-### Linguagens e Tecnologias
+### Languages and Technologies
 
 <img 
     align="left" 
@@ -64,7 +64,7 @@ Me chamo Camille Focke, tenho 22 anos e estou finalizando o curso de Análise e 
 <br/>
 <br/>
 
-### Estatísticas
+### Statistics
 
 <p>
   <img 
