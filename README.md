@@ -2,7 +2,7 @@
 
 **`Frontend Developer`**
 
-My name is Camille Focke, I am 22 years old, and I am finishing my degree in Systems Analysis and Development, offered by Uninassau João Pessoa. I am currently focusing on learning languages and practices used in frontend development, but in the future, I hope to become a full-stack developer!
+My name is Camille Focke, I'm 22 years old, and I'm finishing my degree in Systems Analysis and Development, offered by Uninassau João Pessoa. I am currently focusing on learning languages and practices used in frontend development, but in the future, I hope to become a full-stack developer. 
 
 ---
 
