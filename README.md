@@ -80,22 +80,7 @@ I am 23 years old and hold a degree in Systems Analysis and Development. I am pa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
 />
-<img 
-    align="left" 
-    alt="dbt"
-    title="dbt (Data Build Tool)"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/getdbt/dbt-logo/main/dbt-logo.svg" 
-/>
-<img 
-    align="left" 
-    alt="Great Expectations"
-    title="Great Expectations (GX)"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/images/favicon.png" 
-/>
+
 <img 
     align="left" 
     alt="GitHub Actions"
