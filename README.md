@@ -1,12 +1,12 @@
 ## Hello! Welcome to my Github 🤍
 
-**`Frontend Developer`**
+**`Data Engineer`**
 
-My name is Camille Focke, I'm 22 years old, and I'm finishing my degree in Systems Analysis and Development, offered by Uninassau João Pessoa. I am currently focusing on learning languages and practices used in frontend development, but in the future, I hope to become a full-stack developer. 
+I am 23 years old and hold a degree in Systems Analysis and Development. I am passionate about the data field and currently dedicating myself to becoming a Data Engineer.
 
 ---
 
-### Languages and Technologies
+### Languages and technologies I'm learning
 
 <img 
     align="left" 
@@ -32,7 +32,6 @@ My name is Camille Focke, I'm 22 years old, and I'm finishing my degree in Syste
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="React"
@@ -41,7 +40,6 @@ My name is Camille Focke, I'm 22 years old, and I'm finishing my degree in Syste
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -50,10 +48,67 @@ My name is Camille Focke, I'm 22 years old, and I'm finishing my degree in Syste
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Azure"
+    title="Azure (Data Factory & Synapse Analytics)"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Apache Spark"
+    title="Apache Spark"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="dbt"
+    title="dbt (Data Build Tool)"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/getdbt/dbt-logo/main/dbt-logo.svg" 
+/>
+<img 
+    align="left" 
+    alt="Great Expectations"
+    title="Great Expectations (GX)"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/images/favicon.png" 
+/>
+<img 
+    align="left" 
+    alt="GitHub Actions"
+    title="GitHub Actions"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
 
 <br/>
 <br/>
+
+---
 
 ### Statistics
 
@@ -68,9 +123,8 @@ My name is Camille Focke, I'm 22 years old, and I'm finishing my degree in Syste
 
   <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Top Languages" 
       height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillefk&theme=omni&show_icons=true&hide_border=false&layout=compact" 
   />
-
 </p>
